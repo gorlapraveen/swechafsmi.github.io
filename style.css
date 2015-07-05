@@ -1,0 +1,93 @@
+*{
+	max-width: 100%;
+	max-height: 100%;
+}
+#imgs-heder{
+	background-color: lightgray;
+	height: 50%;
+}
+#hh{
+	 float: none;
+   
+}
+#tit{
+	 float: left;
+
+}
+#main{
+	padding-left: 5%;
+	
+	padding-top: 0px;
+	
+}
+#first{
+	padding-left: 2%;
+}
+a{
+	text-decoration: none;
+	padding-right: 18px;
+
+}
+a:hover{
+	color: #338033;
+	text-decoration: none;
+}
+i{
+	padding-top: 10px;
+}
+h3{
+	color: black;
+}
+hr.soften {
+  height: 1px;
+  background-image: -webkit-linear-gradient(left, transparent, rgba(0, 0, 0, 0.8), transparent);
+  background-image: -moz-linear-gradient(left, transparent, rgba(0, 0, 0, 0.8), transparent);
+  background-image: -ms-linear-gradient(left, transparent, rgba(0, 0, 0, 0.8), transparent);
+  background-image: -o-linear-gradient(left, transparent, rgba(0, 0, 0, 0.8), transparent);
+  border: 0;
+}
+nav{
+	
+	font-size: 18px;
+	text-align: center;
+}
+#second{
+	padding-left: 50px;
+}
+#bodydiv{
+	padding-left: 2%;
+}
+#third{
+	padding-left: 50px;
+	width: 320px;
+}
+#fouth{
+	padding-left: 30px;
+}
+#address{
+	
+	/*border-top-style: dotted;
+   
+    border-bottom-style: dotted;
+   */
+   text-align: center;
+   padding-top: 20px;
+   
+
+}
+#btn{
+	
+	position: fixed;
+}
+#btn-b{
+	padding-left: 85%;
+}
+#btn-n{
+	position: fixed;
+	padding-top: 50px;
+	
+}
+hr{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
